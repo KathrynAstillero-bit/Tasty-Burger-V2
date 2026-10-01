@@ -2,7 +2,7 @@ import React from 'react';
 import AstilleroBurger from './Astillero.burger'; 
 function App() { 
     return ( 
-    <div classname="App"> 
+    <div className="App"> 
     <AstilleroBurger /> 
     </div> 
     ); 
